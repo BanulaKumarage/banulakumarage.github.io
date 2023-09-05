@@ -1,0 +1,386 @@
+{
+  "Bio": {
+    "name": "Banula Kumarage",
+    "roles": [
+      "CSE Undergraduate",
+      "Backend Developer",
+      "Programmer",
+      "Cloud Enthuasiast",
+      "Devops Enthuasiast"
+    ],
+    "description": "An enthusiastic undergraduate who is willing to obtain a job where I meet new challenges every day to solve my potential while getting a chance to work with new technologies. I am a hardworking person who has the capability and skills to adapt to a new working environment and give my fullest outcome to achieve goals.",
+    "github": "https://github.com/BanulaKumarage",
+    "resume": "https://drive.google.com/file/d/10koagd47ON6XJk23cnaKvEj2b7ZD-l6J/view?usp=sharing",
+    "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+    "facebook": "https://www.facebook.com/banula.kumarage/"
+  },
+  "Skills": [
+    {
+      "title": "Programming Languages",
+      "skills": [
+        {
+          "name": "Python",
+          "image": "https://www.vectorlogo.zone/logos/python/python-icon.svg"
+        },
+        {
+          "name": "Java",
+          "image": "https://www.vectorlogo.zone/logos/java/java-icon.svg"
+        },
+        {
+          "name": "PHP",
+          "image": "https://www.vectorlogo.zone/logos/php/php-icon.svg"
+        },
+        {
+          "name": "JavaScript",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433"
+        }
+      ]
+    },
+    {
+      "title": "Backend Frameworks",
+      "skills": [
+        {
+          "name": "Spring Boot",
+          "image": "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+        },
+        {
+          "name": "FastAPI",
+          "image": "https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
+        },
+        {
+          "name": "Django",
+          "image": "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+        },
+        {
+          "name": "Quarkus",
+          "image": "https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png"
+        },
+        {
+          "name": "Node Js",
+          "image": "https://nodejs.org/static/images/logo.svg"
+        },
+        {
+          "name": "Express Js",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+        }
+      ]
+    },
+    {
+      "title": "Frontend Technologies",
+      "skills": [
+        {
+          "name": "React Js",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+        },
+        {
+          "name": "HTML",
+          "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+        },
+        {
+          "name": "CSS",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Bootstrap",
+          "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "skills": [
+        {
+          "name": "MySQL",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+        },
+        {
+          "name": "PL/SQL",
+          "image": "https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"
+        },
+        {
+          "name": "MongoDB",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "SQLite",
+          "image": "https://www.sqlite.org/images/sqlite370_banner.gif"
+        }
+      ]
+    },
+    {
+      "title": "Cloud and Devops Technologies",
+      "skills": [
+        {
+          "name": "Azure",
+          "image": "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+        },
+        {
+          "name": "Kubernetes",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+        },
+        {
+          "name": "Docker",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        },
+        {
+          "name": "Helm",
+          "image": "https://helm.sh/img/helm.svg"
+        },
+        {
+          "name": "Promeheus",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
+        },
+        {
+          "name": "Grafana",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
+        }
+      ]
+    }
+  ],
+  "Experiences": [
+    {
+      "id": 0,
+      "img": "https://images.credly.com/size/400x400/images/c719d58f-88ec-447a-82a3-ab92131ae073/blob.png",
+      "role": "Software Engineer Intern",
+      "company": "IFS R & D International (Pvt.) Ltd",
+      "date": "January 2023 - June 2023",
+      "desc": "Worked in features, defects, CI/ CD and Devops tasks.",
+      "skills": [
+        "Java",
+        "PL/SQL",
+        "Azure",
+        "Kubernete",
+        "Docker",
+        "Jenkins",
+        "Helm",
+        "JMeter"
+      ]
+    },
+    {
+      "id": 1,
+      "img": "https://avatars.githubusercontent.com/u/11620174?s=48&v=4",
+      "role": "Open Source Contributor ",
+      "company": "SPDX",
+      "date": "March 2023 - Present",
+      "desc": "Contributing to SPDX Online Tools project",
+      "skills": [
+        "Python",
+        "Django"
+      ]
+    }
+  ],
+
+  "Education": [
+    {
+      "id": 0,
+      "img": "https://uom.lk/sites/default/files/cse/IntelliSense/images/CSE.jpg",
+      "school": "Department of Computer Science and Engineering, University of Moratuwa",
+      "date": "2020 - Present",
+      "grade": "3.94 CGPA(Upto semester 6)",
+      "desc": "I am currently studying a BSc Engineering in Computer Science and Engineering at University of Moratuwa, Sri Lanka. I have completed 6 semesters and have a CGPA of 3.94 out of 4.2. I was able to be in the Dean's list in semester 1,2,3,4,5,6",
+      "degree": "BSc Engineering (Hons), Computer Science and Engineering"
+    }
+  ],
+
+  "Projects": [
+    {
+      "id": 0,
+      "title": "Streamix : Dash compliant video streaming system",
+      "date": "Nov 2022 - Dec 2022",
+      "description":
+        "The project is a dash (Dynamic Adaptive Streaming over HTTP) video streaming system. Android app is used to capture the video and upload it to the centralized server. Anyone connected to the server can watch the uploaded videos with different qualities.",
+      "tags": ["Java", "Node.JS", "MongoDB", "Ffmpeg"],
+      "github": "https://github.com/TeamStreamix",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Supun Madusanka",
+          "img": "https://avatars.githubusercontent.com/u/50366016?v=4",
+          "linkedin": "https://www.linkedin.com/in/supun-madusanka-8662b821b/",
+          "github": "https://github.com/supun64"
+        },
+        {
+          "name": "Kumuthu Athukorala",
+          "img": "https://avatars.githubusercontent.com/u/81966896?v=4",
+          "linkedin": "https://www.linkedin.com/in/kumuthu-athukorala/",
+          "github": "https://github.com/KumuthuA"
+        },
+        {
+          "name": "Gamunu Bandara",
+          "img": "https://media.licdn.com/dms/image/C5603AQGyOyT3vE-BIQ/profile-displayphoto-shrink_400_400/0/1626042843273?e=1699488000&v=beta&t=sKrqUzG2Z3sb3-pIyvK-dEKKKGo2kmRjoZrOjtHe8VE",
+          "linkedin": "https://www.linkedin.com/in/gamunu-bandara/",
+          "github": "https://github.com/centurion6x"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Moodle Plugin for establishing workflows",
+      "date": "Sep 2022 - Nov 2022",
+      "description":
+        "The project aims to create a plugin for Moodle to automate the process of submitting and validating student requests regarding various moodle activities. This is a group project under the Software Engineering Project module in semester 5.",
+      "tags": ["PHP", "JavaScript", "MySQL"],
+      "github": "https://github.com/SEP-Group-15/moodle/tree/Mod_workflow_branch/mod/workflow",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Udith Kaushalya",
+          "img": "https://avatars.githubusercontent.com/u/91111340?v=4",
+          "linkedin": "https://www.linkedin.com/in/udith-kaushalya/",
+          "github": "https://github.com/udith355"
+        },
+        {
+          "name": "Thamindu Bandara",
+          "img": "https://avatars.githubusercontent.com/u/92365822?v=4",
+          "linkedin": "https://www.linkedin.com/in/thamindubandara/",
+          "github": "https://github.com/thamindu19"    
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "eHotelier - Hotel Management Service",
+      "date": "Apr 2022 - Aug 2022",
+      "description":
+        "This project provides a platform to manage reservations and accommodations for a particular hotel. This system deals with both customers and staff members of the hotel. This is a group project under the Software Engineering module in Semester 4.",
+      "tags": ["PHP", "JavaScript", "MySQL", "HTML"],
+      "github": "https://github.com/BanulaKumarage/ehotelier",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Udith Kaushalya",
+          "img": "https://avatars.githubusercontent.com/u/91111340?v=4",
+          "linkedin": "https://www.linkedin.com/in/udith-kaushalya/",
+          "github": "https://github.com/udith355"
+        },
+        {
+          "name": "Thamindu Bandara",
+          "img": "https://avatars.githubusercontent.com/u/92365822?v=4",
+          "linkedin": "https://www.linkedin.com/in/thamindubandara/",
+          "github": "https://github.com/thamindu19"
+        },
+        {
+          "name": "Jalitha Kalsara",
+          "img": "https://avatars.githubusercontent.com/u/80405024?v=4",
+          "linkedin": "https://www.linkedin.com/in/jalitha-kalsara-4302b921b/",
+          "github": "https://github.com/Jalitha99"
+        },
+        {
+          "name": "Sathsarani Kapukotuwa",
+          "img": "https://avatars.githubusercontent.com/u/89601170?v=4",
+          "linkedin": "https://www.linkedin.com/in/sathsarani-kapukotuwa-8579aa21a/",
+          "github": "https://github.com/Sathsarani-Kapukotuwa"
+        }
+      ]   
+      
+    },
+    {
+      "id": 3,
+      "title": "Supply Chain Management System",
+      "date": "Jun 2022 - Jul 2022",
+      "description":
+        "The project is an information and data management system based on a distribution flow of a company. The complete chain of the distribution flow from the store to the customer can be monitored using the system. This is a group project under the Database Systems module in semester 4",
+      "tags": ["PHP", "JavaScript", "MySQL", "HTML"],
+      "github": "https://github.com/DBMS-404/Supply-Chain-Management-System",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Dakshina Ranmal",
+          "img": "https://avatars.githubusercontent.com/u/76484102?v=4",
+          "linkedin": "https://www.linkedin.com/in/dakshina-ranmal/",
+          "github": "https://github.com/dakshina99"
+        },
+        {
+          "name": "Piumini Kaveesha",
+          "img": "https://avatars.githubusercontent.com/u/62582918?v=4",
+          "linkedin": "https://www.linkedin.com/in/ranasinghe-pk/",
+          "github": "https://github.com/KaveeshaPiumini"
+        },
+        {
+          "name": "Hiruna Harankahadeniya",
+          "img": "https://avatars.githubusercontent.com/u/91206432?v=4",
+          "linkedin": "https://www.linkedin.com/in/hiruna-harankahadeniya/",
+          "github": "https://github.com/HirunaHarankahadeniya"
+        },
+        {
+          "name": "Nimesh Ariyarathne",
+          "img": "https://avatars.githubusercontent.com/u/80301441?v=4",
+          "linkedin": "https://www.linkedin.com/in/nimesh-ariyarathne-513931199/",
+          "github": "https://github.com/Nimesh55"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Home Pharmacist - Pharmacy Management System",
+      "date": "Dec 2021 - Jan 2022",
+      "description":
+        "A centralized system for pharmacies to provide many facilities including searching and ordering from pharmacies that are available in the system. This project follows the MVC architecture. This is a group project under the Object-Oriented Software Development Module in semester 3.",
+      "tags": ["PHP", "JavaScript", "MySQL", "HTML"],
+      "github": "https://github.com/DBMS-404/Supply-Chain-Management-System",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Dakshina Ranmal",
+          "img": "https://avatars.githubusercontent.com/u/76484102?v=4",
+          "linkedin": "https://www.linkedin.com/in/dakshina-ranmal/",
+          "github": "https://github.com/dakshina99"
+        },
+        {
+          "name": "Piumini Kaveesha",
+          "img": "https://avatars.githubusercontent.com/u/62582918?v=4",
+          "linkedin": "https://www.linkedin.com/in/ranasinghe-pk/",
+          "github": "https://github.com/KaveeshaPiumini"
+        },
+        {
+          "name": "Hiruna Harankahadeniya",
+          "img": "https://avatars.githubusercontent.com/u/91206432?v=4",
+          "linkedin": "https://www.linkedin.com/in/hiruna-harankahadeniya/",
+          "github": "https://github.com/HirunaHarankahadeniya"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Student Request Management System",
+      "date": "Dec 2021 - Jan 2022",
+      "description":
+        "A web-based management system to manage student requests that have been sent to the academic staff in the university.",
+      "tags": ["Express.js", "Node.js", "React.js", "MongoDB"]
+    },
+    {
+      "id": 6,
+      "title": "Nano-processor Design",
+      "description": "A 4-bit processor capable of executing 4 instructions has been designed and implemented using a hardware program language and simulated for a set of predefined instructions using Xilinx Vivado software. This is a group project under Computer Architecture Module in semester 2.",
+      "tags": ["VHDL", "Hardware Programming"],
+      "github": "https://github.com/BanulaKumarage/Nanoprocessor"
+    }
+    
+  ]
+  
+}
