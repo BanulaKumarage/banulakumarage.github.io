@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import { AiFillMediumSquare } from 'react-icons/ai'
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -87,16 +88,10 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Banula Kumarage</Logo>
-        <Nav>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
-        </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.medium} target="display"><AiFillMediumSquare /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2023 Banula Kumarage. All rights reserved.

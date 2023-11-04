@@ -14,15 +14,17 @@ import {
   MobileLink,
   buttonStyle,
   handleMouseEnter,
-  handleMouseLeave
+  handleMouseLeave,
 } from "./NavbarStyledComponent";
 import { DiCssdeck } from "react-icons/di";
 import { FaBars } from "react-icons/fa";
 import { Bio } from "../../data/constants";
 import { Close, CloseRounded } from "@mui/icons-material";
 import { useTheme } from "styled-components";
-import Switch from "@mui/material/Switch";
-
+import Brightness4Icon from "@mui/icons-material/Brightness4";
+import Brightness7Icon from "@mui/icons-material/Brightness7";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import IconButton from "@mui/material/IconButton";
 
 const Navbar = ({ darkMode, toggleDarkMode }) => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -30,28 +32,19 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
   return (
     <Nav>
       <NavbarContainer>
-      <div         
-        style={buttonStyle}
-        onClick={toggleDarkMode}
-        onMouseEnter={handleMouseEnter}
-        onMouseLeave={handleMouseLeave}
-      >
-        {darkMode ? (
-          <span role="img" aria-label="moon">
-            🌙
-          </span>
-        ) : (
-          <span role="img" aria-label="sun">
-            ☀️
-          </span>
-        )}
-      </div>
+        <IconButton sx={{ ml: 1 }} onClick={toggleDarkMode}>
+          {darkMode ? (
+            <Brightness7Icon sx={{ color: "white", fontSize: "1.5rem" }} />
+          ) : (
+            <Brightness4Icon sx={{ color: "black", fontSize: "1.5rem" }} />
+          )}
+        </IconButton>
         <NavLogo to="/">
           <a
             style={{
               display: "flex",
               alignItems: "center",
-              color: "white",
+              color: darkMode ? "white" : "black",
               marginBottom: "20;",
               cursor: "pointer",
             }}
@@ -74,9 +67,13 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
           <NavLink href="#education">Education</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.github} target="_blank">
-            Github Profile
-          </GitHubButton>
+          <a href={Bio.github} target="_blank">
+            <GitHubIcon
+              href={Bio.github}
+              target="_blank"
+              sx={{ color: darkMode ? "white" : "black", fontSize: "2rem" }}
+            />
+          </a>
         </ButtonContainer>
         {isOpen && (
           <MobileMenu isOpen={isOpen}>
