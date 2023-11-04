@@ -36,7 +36,7 @@ function App() {
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router >
         <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
-        <FloatingSocialMediaIconBar />
+        <FloatingSocialMediaIconBar darkMode={darkMode}/>
         <Body>
           <AvatarSection />
           <Wrapper>

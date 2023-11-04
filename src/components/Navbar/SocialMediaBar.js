@@ -5,7 +5,7 @@ import { Bio } from "../../data/constants";
 import { BsGithub, BsFacebook } from 'react-icons/bs'
 import { FaLinkedin } from 'react-icons/fa'
 
-const FloatingSocialMediaIconBar = () => {
+const FloatingSocialMediaIconBar = ({darkMode}) => {
   const icons = [
     {
       icon: BsFacebook,
@@ -45,7 +45,7 @@ const FloatingSocialMediaIconBar = () => {
                 width: "60px",
                 height: "60px",
                 border: "1px solid #854ce6",
-                background: "#171721",
+                background: darkMode ? "#171721" : "#fff",
                 borderRadius: "50%",
                 transition: "all 0.5s ease-in-out",
                 "&:hover": {
@@ -57,7 +57,7 @@ const FloatingSocialMediaIconBar = () => {
           >
             <icon.icon size={15}
             style={{
-                color: "white"
+                color: darkMode ? "white" : "black",
             }} />
           </Button>
         ))}
