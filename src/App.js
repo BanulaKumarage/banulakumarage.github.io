@@ -13,6 +13,7 @@ import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import FloatingSocialMediaIconBar from "./components/Navbar/SocialMediaBar.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -35,6 +36,7 @@ function App() {
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router >
         <Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+        <FloatingSocialMediaIconBar />
         <Body>
           <AvatarSection />
           <Wrapper>
