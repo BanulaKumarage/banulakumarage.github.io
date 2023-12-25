@@ -30,7 +30,7 @@ jobs:
     - name: Build and deploy to GitHub Pages
       run: |
         npm run build
-        npm run deploy
+        npm run deploy -- --branch=gh-pages
 
     - name: Create CNAME file
       run: echo "banulakumrage.com" > build/CNAME
