@@ -21,8 +21,12 @@ import { FaBars } from "react-icons/fa";
 import { Bio } from "../../data/constants";
 import { Close, CloseRounded } from "@mui/icons-material";
 import { useTheme } from "styled-components";
-import Brightness4Icon from "@mui/icons-material/Brightness4";
-import Brightness7Icon from "@mui/icons-material/Brightness7";
+// import Brightness4Icon from "@mui/icons-material/Brightness4";
+// import Brightness7Icon from "@mui/icons-material/Brightness7";
+import DarkModeIcon from '@mui/icons-material/DarkMode';
+import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
+import LightModeIcon from '@mui/icons-material/LightMode';
+import LightModeOutlinedIcon from '@mui/icons-material/LightModeOutlined';
 import GitHubIcon from "@mui/icons-material/GitHub";
 import IconButton from "@mui/material/IconButton";
 import PersonPinIcon from '@mui/icons-material/PersonPin';
@@ -35,9 +39,9 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
       <NavbarContainer>
         <IconButton sx={{ ml: 1 }} onClick={toggleDarkMode}>
           {darkMode ? (
-            <Brightness7Icon sx={{ color: "white", fontSize: "1.5rem" }} />
+            <DarkModeIcon sx={{ color: "white", fontSize: "1.5rem" }} />
           ) : (
-            <Brightness4Icon sx={{ color: "black", fontSize: "1.5rem" }} />
+            <LightModeIcon sx={{ color: "black", fontSize: "1.5rem" }} />
           )}
         </IconButton>
         <NavLogo to="/">

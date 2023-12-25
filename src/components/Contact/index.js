@@ -111,7 +111,7 @@ text-decoration: none;
 width: 100%;
 text-align: center;
 padding: 16px 0;
-color:${({ theme }) => theme.white};
+color: white;
 border-radius: 20px;
 cursor: pointer;
 font-size: 20px;
