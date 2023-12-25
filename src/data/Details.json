@@ -376,6 +376,28 @@
     },
     {
       "id": 6,
+      "title": "Flower-Exchange Application",
+      "description":
+        "The flower exchange is a system which supports basic trading. It has two components which are Trader(Client) and Exchanger(Server)",
+      "tags": ["C++"],
+      "github": "https://github.com/Triple-Shock/Flower-Exchange",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Tharusha Lekamge",
+          "img": "https://avatars.githubusercontent.com/u/78468287?v=4",
+          "linkedin": "https://www.linkedin.com/in/tharusha-lekamge/",
+          "github": "https://github.com/Tharusha-Lekamge"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "title": "Nano-processor Design",
       "description": "A 4-bit processor capable of executing 4 instructions has been designed and implemented using a hardware program language and simulated for a set of predefined instructions using Xilinx Vivado software. This is a group project under Computer Architecture Module in semester 2.",
       "tags": ["VHDL", "Hardware Programming"],
