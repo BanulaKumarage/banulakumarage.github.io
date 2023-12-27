@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/BanulaKumarage/banulakumarage.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/BanulaKumarage/banulakumarage.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deploy the Portfolio](https://github.com/BanulaKumarage/banulakumarage.github.io/actions/workflows/deploy.yaml/badge.svg?branch=main)](https://github.com/BanulaKumarage/banulakumarage.github.io/actions/workflows/deploy.yaml)
