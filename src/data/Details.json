@@ -424,22 +424,6 @@
       ]
     },
     {
-      "id": 8,
-      "title": "Wikimedia-Kafka-ProducerAndConsumer",
-      "description":
-        "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
-      "tags": ["Java", "Spring Boot", "Kafka", "MySQL"],
-      "github": "https://github.com/Triple-Shock/Flower-Exchange",
-      "member": [
-        {
-          "name": "Banula Kumarage",
-          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
-          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
-          "github": "https://github.com/BanulaKumarage"
-        }
-      ]
-    },
-    {
       "id": 6,
       "title": "Flower-Exchange Application",
       "description":
