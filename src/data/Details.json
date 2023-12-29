@@ -376,6 +376,70 @@
       "github":"https://github.com/BanulaKumarage/Team404_StudentRequests"
     },
     {
+      "id": 9,
+      "title": "Metopedia",
+      "description":
+        "This is a web application that can be used to search sinhala metaphors and their meanings. In the app, server communicates with elastic search server to fetch the results for a given query",
+      "tags": ["JavaScript", "Node.js", "Elastic Search", "React.js"],
+      "github": "https://github.com/BanulaKumarage/Metopedia",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Product-Microservice Architecture",
+      "description":
+        "This is microservice artitecture for a product order system. It has the microservice components of API Gateway, Service Discovery, API Security, Circuit Breaker, Event Driven Communication and Distributed Tracing",
+      "tags": ["Java", "Spring Boot"],
+      "github": "https://github.com/BanulaKumarage/Product-Microservice-Architecture",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Wikimedia-Kafka-ProducerAndConsumer",
+      "description":
+        "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
+      "tags": ["Java", "Spring Boot", "Kafka", "MySQL"],
+      "github": "https://github.com/Triple-Shock/Flower-Exchange",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Wikimedia-Kafka-ProducerAndConsumer",
+      "description":
+        "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
+      "tags": ["Java", "Spring Boot", "Kafka", "MySQL"],
+      "github": "https://github.com/Triple-Shock/Flower-Exchange",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        }
+      ]
+    },
+    {
       "id": 6,
       "title": "Flower-Exchange Application",
       "description":
@@ -402,7 +466,15 @@
       "title": "Nano-processor Design",
       "description": "A 4-bit processor capable of executing 4 instructions has been designed and implemented using a hardware program language and simulated for a set of predefined instructions using Xilinx Vivado software. This is a group project under Computer Architecture Module in semester 2.",
       "tags": ["VHDL", "Hardware Programming"],
-      "github": "https://github.com/BanulaKumarage/Nanoprocessor"
+      "github": "https://github.com/BanulaKumarage/Nanoprocessor",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        }
+      ]
     }
     
   ]
