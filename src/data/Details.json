@@ -393,7 +393,7 @@
     },
     {
       "id": 7,
-      "title": "Product-Microservice Architecture",
+      "title": "Product-Order-Inventry Microservice Architecture",
       "description":
         "This is microservice artitecture for a product order system. It has the microservice components of API Gateway, Service Discovery, API Security, Circuit Breaker, Event Driven Communication and Distributed Tracing",
       "tags": ["Java", "Spring Boot"],
@@ -409,7 +409,7 @@
     },
     {
       "id": 8,
-      "title": "Wikimedia-Kafka-ProducerAndConsumer",
+      "title": "Wikimedia Kafka Producer and Consumer",
       "description":
         "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
       "tags": ["Java", "Spring Boot", "Kafka", "MySQL"],
@@ -447,7 +447,7 @@
     },
     {
       "id": 7,
-      "title": "Nano-processor Design",
+      "title": "Nano Processor Design Project",
       "description": "A 4-bit processor capable of executing 4 instructions has been designed and implemented using a hardware program language and simulated for a set of predefined instructions using Xilinx Vivado software. This is a group project under Computer Architecture Module in semester 2.",
       "tags": ["VHDL", "Hardware Programming"],
       "github": "https://github.com/BanulaKumarage/Nanoprocessor",
