@@ -338,7 +338,7 @@
       "description":
         "A centralized system for pharmacies to provide many facilities including searching and ordering from pharmacies that are available in the system. This project follows the MVC architecture. This is a group project under the Object-Oriented Software Development Module in semester 3.",
       "tags": ["PHP", "JavaScript", "MySQL", "HTML"],
-      "github": "https://github.com/DBMS-404/Supply-Chain-Management-System",
+      "github": "https://github.com/cse19-404/OOSD-MVC-Project-Home-Pharmacist",
       "member": [
         {
           "name": "Banula Kumarage",
@@ -413,7 +413,7 @@
       "description":
         "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
       "tags": ["Java", "Spring Boot", "Kafka", "MySQL"],
-      "github": "https://github.com/Triple-Shock/Flower-Exchange",
+      "github": "https://github.com/BanulaKumarage/Wikimedia-Kafka-ProducerAndConsumer",
       "member": [
         {
           "name": "Banula Kumarage",
