@@ -2,13 +2,12 @@
   "Bio": {
     "name": "Banula Kumarage",
     "roles": [
-      "CSE Undergraduate",
+      "Software Engineer",
       "Backend Developer",
-      "Programmer",
       "Cloud Enthuasiast",
       "Devops Enthuasiast"
     ],
-    "description": "An enthusiastic undergraduate seeking a position where I meet new challenges every day, utilizing my fullest potential while getting a chance to work with new technologies. I am a hardworking person with the capability and skills to adapt to a new working environment, aiming to contribute my fullest effort to achieve goals.",
+    "description": "An enthusiastic individual seeking a position where I meet new challenges every day, utilizing my fullest potential while getting a chance to work with new technologies. I am a hardworking person with the capability and skills to adapt to a new working environment, aiming to contribute my fullest effort to achieve goals.",
     "github": "https://github.com/BanulaKumarage",
     "resume": "https://drive.google.com/file/d/1FVIyY3v3vuPUWHu21ZhTbgLb1wakTJJN/view?usp=sharing",
     "linkedin": "https://www.linkedin.com/in/banula-kumarage",
@@ -34,6 +33,10 @@
         {
           "name": "JavaScript",
           "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433"
+        },
+        {
+          "name": "TypeScript",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         },
         {
           "name" : "C++",
@@ -109,16 +112,33 @@
         {
           "name": "SQLite",
           "image": "https://www.sqlite.org/images/sqlite370_banner.gif"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
         }
       ]
     },
     {
-      "title": "Cloud and Devops Technologies",
+      "title": "Cloud",
       "skills": [
         {
           "name": "Azure",
           "image": "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
         },
+        {
+          "name": "AWS",
+          "image": "https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256"
+        },
+        {
+          "name": "Google Cloud",
+          "image": "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+        }
+      ]
+    },
+    {
+      "title": "Other Tools",
+      "skills": [
         {
           "name": "Kubernetes",
           "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
@@ -130,6 +150,22 @@
         {
           "name": "Helm",
           "image": "https://helm.sh/img/helm.svg"
+        },
+        {
+          "name": "Kafka",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"
+        },
+        {
+          "name": "Apache Beam",
+          "image": "https://beam.apache.org/images/logos/full-color/name-bottom/beam-logo-full-color-name-bottom-100.png"
+        },
+        {
+          "name": "Redis",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+        },
+        {
+          "name": "Elastic Search",
+          "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg"
         },
         {
           "name": "Promeheus",
@@ -145,6 +181,23 @@
   "Experiences": [
     {
       "id": 0,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvJgusc3q-rczhrVis6S9LezPgl-mO9WSow&s",
+      "role": "Software Engineer",
+      "company": "Sysco LABS Sri Lanka",
+      "date": "June 2024 - Present",
+      "desc": "Working on Backend Development, Cloud Development, and DevOps tasks.",
+      "skills": [
+        "Spring Boot", 
+        "AWS", 
+        "Kafka", 
+        "Apache Beam", 
+        "PostgreSQL", 
+        "Redis", 
+        "Elasticsearch"
+      ]
+    },
+    {
+      "id": 1,
       "img": "https://images.credly.com/size/400x400/images/c719d58f-88ec-447a-82a3-ab92131ae073/blob.png",
       "role": "Software Engineer Intern",
       "company": "IFS R & D International (Pvt.) Ltd",
@@ -162,7 +215,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "img": "https://avatars.githubusercontent.com/u/11620174?s=48&v=4",
       "role": "Open Source Contributor ",
       "company": "SPDX",
@@ -180,14 +233,72 @@
       "id": 0,
       "img": "https://uom.lk/sites/default/files/cse/IntelliSense/images/CSE.jpg",
       "school": "Department of Computer Science and Engineering, University of Moratuwa",
-      "date": "2020 - Present",
-      "grade": "3.94 CGPA(Upto semester 6)",
-      "desc": "I am currently studying a BSc Engineering in Computer Science and Engineering at University of Moratuwa, Sri Lanka. I have completed 6 semesters and have a CGPA of 3.94 out of 4.2. I was able to be in the Dean's list in semester 1,2,3,4,5,6",
+      "date": "2020 - 2024",
+      "grade": "3.96 / 4.20",
+      "desc": "Graduated with a First Class Degree. Dean's List in semesters 1, 2, 3, 4, 5, 6, 7, 8",
       "degree": "BSc Engineering (Hons), Computer Science and Engineering"
     }
   ],
 
   "Projects": [
+    {
+      "id": 0,
+      "title": "PicsSmart : Privacy Ensured Smart Media Cloud with Federated Learning",
+      "date": "June 2023 - July 2024",
+      "description":
+        "An edge-processing-based application where users are concerned about their photos' privacy can still benefit from ML-powered smart features such as face-identification, face-clustering, and image caption generation. For the models to work well with heterogeneous datasets, models are to be frequently trained at the edge and updated using Federated Transfer Learning techniques.",
+      "tags": ["FastAPI", "ReactJS", "LAVIS", "Keras", "Tensorflow Federated", "Docker"],
+      "github": "https://github.com/PicsSmart",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Hiruna Harankahadeniya",
+          "img": "https://avatars.githubusercontent.com/u/91206432?v=4",
+          "linkedin": "https://www.linkedin.com/in/hiruna-harankahadeniya/",
+          "github": "https://github.com/HirunaHarankahadeniya"
+        },
+        {
+          "name": "Akila Induranga",
+          "img": "https://avatars.githubusercontent.com/u/80597937?v=4",
+          "linkedin": "https://www.linkedin.com/in/akila-i/",
+          "github": "https://github.com/Akila-I"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Scatterrr : Secure and trusted distributed file storage system",
+      "date": "April 2024 - July 2024",
+      "description":
+        "A secure distributed file storage system that segments files into equal-sized chunks and distributes them randomly across a cluster of nodes for enhanced security. Using a Merkle Tree, it ensures data integrity, allowing users to verify files remain tamper-free. The system offers an intuitive interface for uploading, searching, viewing metadata, verifying integrity, and downloading files, combining reliability with robust security principles.",
+      "tags": ["Spring Boot", "Next.js"],
+      "github": "https://github.com/orgs/Scatterrr-cse19/repositories",
+      "member": [
+        {
+          "name": "Banula Kumarage",
+          "img": "https://avatars.githubusercontent.com/u/63106638?s=96&v=4",
+          "linkedin": "https://www.linkedin.com/in/banula-kumarage",
+          "github": "https://github.com/BanulaKumarage"
+        },
+        {
+          "name": "Akila Induranga",
+          "img": "https://avatars.githubusercontent.com/u/80597937?v=4",
+          "linkedin": "https://www.linkedin.com/in/akila-i/",
+          "github": "https://github.com/Akila-I"
+        },
+        {
+          "name": "Jithmi Ranasinghe",
+          "img": "https://avatars.githubusercontent.com/u/79504341?v=4",
+          "linkedin": "https://www.linkedin.com/in/jithmi-ranasinghe004/",
+          "github": "https://github.com/Jithmi004"
+        }
+      ]
+    },
     {
       "id": 0,
       "title": "Streamix : Dash compliant video streaming system",
@@ -224,7 +335,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "Moodle Plugin for establishing workflows",
       "date": "Sep 2022 - Nov 2022",
       "description":
@@ -253,7 +364,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "eHotelier - Hotel Management Service",
       "date": "Apr 2022 - Aug 2022",
       "description":
@@ -295,7 +406,7 @@
       
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Supply Chain Management System",
       "date": "Jun 2022 - Jul 2022",
       "description":
@@ -336,7 +447,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Home Pharmacist - Pharmacy Management System",
       "date": "Dec 2021 - Jan 2022",
       "description":
@@ -371,7 +482,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Student Request Management System",
       "date": "Dec 2021 - Jan 2022",
       "description":
@@ -380,7 +491,7 @@
       "github":"https://github.com/BanulaKumarage/Team404_StudentRequests"
     },
     {
-      "id": 9,
+      "id": 11,
       "title": "Metopedia",
       "description":
         "This is a web application that can be used to search sinhala metaphors and their meanings. In the app, server communicates with elastic search server to fetch the results for a given query",
@@ -396,7 +507,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Product-Order-Inventry Microservice Architecture",
       "description":
         "This is microservice artitecture for a product order system. It has the microservice components of API Gateway, Service Discovery, API Security, Circuit Breaker, Event Driven Communication and Distributed Tracing",
@@ -412,7 +523,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Wikimedia Kafka Producer and Consumer",
       "description":
         "This is a simple application which uses Kafka to produce and consume messages. It uses Wikimedia API to get the latest changes in Wikipedia and send them to Kafka. Then the consumer save them in a database",
@@ -428,7 +539,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Flower-Exchange Application",
       "description":
         "The flower exchange is a system which supports basic trading. It has two components which are Trader(Client) and Exchanger(Server)",
@@ -450,7 +561,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 12,
       "title": "Nano Processor Design Project",
       "description": "A 4-bit processor capable of executing 4 instructions has been designed and implemented using a hardware program language and simulated for a set of predefined instructions using Xilinx Vivado software. This is a group project under Computer Architecture Module in semester 2.",
       "tags": ["VHDL", "Hardware Programming"],

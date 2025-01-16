@@ -4,6 +4,7 @@ import { AvatarContainer, AvatarBg, AvatarLeftContainer, Img, AvatarRightContain
 import Typewriter from 'typewriter-effect';
 import AvatarImg from '../../images/icon.png';
 import { Bio } from '../../data/constants';
+import cv from '../../data/Banula_Kumarage.pdf'
 
 const AvatarSection = () => {
     return (
@@ -28,7 +29,7 @@ const AvatarSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
+                        <ResumeButton href={cv} target='_blank'>Check Resume</ResumeButton>
                     </AvatarLeftContainer>
 
                     <AvatarRightContainer id="Right">
