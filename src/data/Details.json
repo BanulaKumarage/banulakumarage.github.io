@@ -185,7 +185,7 @@
       "role": "Software Engineer",
       "company": "Sysco LABS Sri Lanka",
       "date": "June 2024 - Present",
-      "desc": "Working on Backend Development, Cloud Development, and DevOps tasks.",
+      "desc": "Involved in back-end development of data processing applications using Apache Kafka, Spring Boot, and Apache Beam, with supporting infrastructure on AWS, and integrations with Redis and Elasticsearch.",
       "skills": [
         "Spring Boot", 
         "AWS", 
@@ -202,10 +202,11 @@
       "role": "Software Engineer Intern",
       "company": "IFS R & D International (Pvt.) Ltd",
       "date": "January 2023 - June 2023",
-      "desc": "Worked in features, defects, CI/ CD and Devops tasks.",
+      "desc": "Worked on feature enhancements and fixing defects in Quarkus based microservices. Worked on CI/CD tasks which automated the manual tasks. Worked on Helm Chart Improvements of the micro-services. Worked on performance testing tasks.",
       "skills": [
         "Java",
         "PL/SQL",
+        "Quarkus",
         "Azure",
         "Kubernete",
         "Docker",
