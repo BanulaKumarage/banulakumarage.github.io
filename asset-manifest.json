@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.f12788a0.js",
+    "main.js": "/static/js/main.aa9b41b8.js",
     "static/media/icon.png": "/static/media/icon.a6d0ce1a302ebc318ba0.png",
-    "static/media/Banula_Kumarage.pdf": "/static/media/Banula_Kumarage.e9533636ba39208b6339.pdf",
+    "static/media/Banula_Kumarage.pdf": "/static/media/Banula_Kumarage.31a37a96842da688b4c9.pdf",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.f12788a0.js.map": "/static/js/main.f12788a0.js.map"
+    "main.aa9b41b8.js.map": "/static/js/main.aa9b41b8.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.f12788a0.js"
+    "static/js/main.aa9b41b8.js"
   ]
 }
