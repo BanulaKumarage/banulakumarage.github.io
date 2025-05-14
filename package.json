@@ -1,5 +1,5 @@
 {
-  "homepage": "https://banulakumarage.com/",
+  "homepage": "https://banulakumarage.github.io/",
   "name": "banula-kumrage-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --cname banulakumarage.com"
+    "deploy": "gh-pages -d build --cname banulakumarage.github.io"
   },
   "eslintConfig": {
     "extends": [
