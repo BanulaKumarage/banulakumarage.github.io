@@ -27,6 +27,10 @@
           "image": "https://www.vectorlogo.zone/logos/java/java-icon.svg"
         },
         {
+          "name": "Scala",
+          "image": "https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"
+        },
+        {
           "name": "PHP",
           "image": "https://www.vectorlogo.zone/logos/php/php-icon.svg"
         },
@@ -230,6 +234,15 @@
   ],
 
   "Education": [
+    {
+      "id": 0,
+      "img": "https://uom.lk/sites/default/files/cse/IntelliSense/images/CSE.jpg",
+      "school": "Department of Computer Science and Engineering, University of Moratuwa",
+      "date": "2025 - Present",
+      "grade": "3.96 / 4.20",
+      "desc": "Focusing the research on mitigating the cold start problem in Serverless Platforms",
+      "degree": "Master of Science (Major Component of Research), Reading"
+    },
     {
       "id": 0,
       "img": "https://uom.lk/sites/default/files/cse/IntelliSense/images/CSE.jpg",
