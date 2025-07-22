@@ -2,6 +2,8 @@ const json = require('./Details.json');
 
 export const Bio = json.Bio;
 
+export const cv = "/Banula_Kumarage.pdf";
+
 export const skills = json.Skills;
 
 export const experiences = json.Experiences;

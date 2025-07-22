@@ -4,7 +4,7 @@ import { AvatarContainer, AvatarBg, AvatarLeftContainer, Img, AvatarRightContain
 import Typewriter from 'typewriter-effect';
 import AvatarImg from '../../images/icon.png';
 import { Bio } from '../../data/constants';
-import cv from '../../data/Banula_Kumarage.pdf'
+import { cv } from '../../data/constants'
 
 const AvatarSection = () => {
     return (
