@@ -18,6 +18,10 @@
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0"
   },
+  "overrides": {
+  "nth-check": "^2.1.1",
+  "postcss": "^8.4.31"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
