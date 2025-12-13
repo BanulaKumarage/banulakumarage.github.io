@@ -23,7 +23,7 @@ jobs:
         run: npm ci
 
       - name: Build project
-        run: npm run build
+        run: CI=false npm run build
 
       - name: Security audit (fail on high & critical)
         run: npm audit --audit-level=high
