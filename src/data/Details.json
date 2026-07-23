@@ -184,12 +184,12 @@
   ],
   "Experiences": [
     {
-      "id": 0,
+      "id": 1,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvJgusc3q-rczhrVis6S9LezPgl-mO9WSow&s",
-      "role": "Software Engineer",
+      "role": "Senior Software Engineer",
       "company": "Sysco LABS Sri Lanka",
-      "date": "June 2024 - Present",
-      "desc": "Involved in back-end development of data processing applications using Apache Kafka, Spring Boot, and Apache Beam, with supporting infrastructure on AWS, and integrations with Redis and Elasticsearch.",
+      "date": "February 2026 - Present",
+      "desc": "Led modernization and cross-functional initiatives by building real-time Kafka/Flink data pipelines, enhancing Elasticsearch search capabilities, and delivering end-to-end product features.",
       "skills": [
         "Spring Boot", 
         "AWS", 
@@ -202,6 +202,23 @@
     },
     {
       "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvJgusc3q-rczhrVis6S9LezPgl-mO9WSow&s",
+      "role": "Software Engineer",
+      "company": "Sysco LABS Sri Lanka",
+      "date": "June 2024 - February 2026",
+      "desc": "Involved in back-end development of data processing applications using Apache Kafka, Spring Boot, and Apache Beam, with supporting infrastructure on AWS, and integrations with Redis and Elasticsearch.",
+      "skills": [
+        "Spring Boot", 
+        "AWS", 
+        "Kafka", 
+        "Apache Beam", 
+        "PostgreSQL", 
+        "Redis", 
+        "Elasticsearch"
+      ]
+    },
+    {
+      "id": 2,
       "img": "https://images.credly.com/size/400x400/images/c719d58f-88ec-447a-82a3-ab92131ae073/blob.png",
       "role": "Software Engineer Intern",
       "company": "IFS R & D International (Pvt.) Ltd",
