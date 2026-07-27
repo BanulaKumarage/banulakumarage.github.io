@@ -189,7 +189,7 @@
       "role": "Senior Software Engineer",
       "company": "Sysco LABS Sri Lanka",
       "date": "February 2026 - Present",
-      "desc": "Led modernization and cross-functional initiatives by building real-time Kafka/Flink data pipelines, enhancing Elasticsearch search capabilities, and delivering end-to-end product features.",
+      "desc": "Leading the modernization and cross-functional initiatives by building real-time Kafka/Flink data pipelines, enhancing Elasticsearch search capabilities, and delivering end-to-end product features.",
       "skills": [
         "Spring Boot", 
         "AWS", 
@@ -256,7 +256,6 @@
       "img": "https://uom.lk/sites/default/files/cse/IntelliSense/images/CSE.jpg",
       "school": "Department of Computer Science and Engineering, University of Moratuwa",
       "date": "2025 - Present",
-      "grade": "3.96 / 4.20",
       "desc": "Focusing the research on mitigating the cold start problem in Serverless Platforms",
       "degree": "Master of Science (Major Component of Research), Reading"
     },
