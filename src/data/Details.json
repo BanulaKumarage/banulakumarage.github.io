@@ -184,7 +184,7 @@
   ],
   "Experiences": [
     {
-      "id": 1,
+      "id": 0,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXvJgusc3q-rczhrVis6S9LezPgl-mO9WSow&s",
       "role": "Senior Software Engineer",
       "company": "Sysco LABS Sri Lanka",
@@ -234,18 +234,6 @@
         "Jenkins",
         "Helm",
         "JMeter"
-      ]
-    },
-    {
-      "id": 2,
-      "img": "https://avatars.githubusercontent.com/u/11620174?s=48&v=4",
-      "role": "Open Source Contributor ",
-      "company": "SPDX",
-      "date": "March 2023 - Present",
-      "desc": "Contributing to SPDX Online Tools project",
-      "skills": [
-        "Python",
-        "Django"
       ]
     }
   ],
